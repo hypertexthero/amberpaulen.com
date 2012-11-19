@@ -1,0 +1,9 @@
+/* Styles for IE 7 */
+
+div#header {margin:0 197px 0 !important;}
+p#logo a {margin-bottom:0;}
+ul#navigation {margin-bottom:1em;}
+ul#navigation li {padding-bottom:1px;}
+span.dc {line-height:48px !important;}
+h1 {margin-bottom:1.6em;}
+ul.paging li {margin-bottom:0;}
