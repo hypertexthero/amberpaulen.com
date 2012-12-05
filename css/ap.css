@@ -11,7 +11,7 @@ body {
 	line-height:1.6;
 	margin:0; 
 	padding:2em 2em 5em; 
-	background:rgb(253, 253, 253) url(img/header-bg.jpg) 0 -182px repeat-x;
+	background:rgb(253, 253, 253) url(/img/header-bg.jpg) 0 -182px repeat-x;
 	margin:auto;
 	max-width:40em;
 	color:rgb(10, 10, 10);
