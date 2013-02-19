@@ -102,4 +102,4 @@ hr {height:0; color:#eee; border:1px solid #eee; margin:2em 0 1em;}
 .clearfix {clear:both;}
 
 /* no twitter avatar */
-img.u-photo.avatar {display:none !important;}
+.avatar {display:none !important;}
