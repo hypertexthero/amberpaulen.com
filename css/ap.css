@@ -109,6 +109,6 @@ abbr, acronym {border-bottom:1px dotted #ccc;}
 .pull-left {float:left; margin:0.5em 2em 1em 0;}
 .pull-right {float:right; margin:0.5em 0 1em 2em;}
 .clearfix {clear:both;}
-img {margin-bottom:1em;} 
+img {margin-bottom:1.25em;} 
 /* no twitter avatar */
 img.avatar, img.twtr-profile-img, img.u-photo {display:none !important;}
