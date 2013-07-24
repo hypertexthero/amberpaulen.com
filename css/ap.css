@@ -113,3 +113,9 @@ abbr, acronym {border-bottom:1px dotted #ccc;}
 img {margin-bottom:1.25em;} 
 /* no twitter avatar */
 img.avatar, img.twtr-profile-img, img.u-photo {display:none !important;}
+
+@media (max-width: 800px) {
+
+   img {width: 100%; height: auto;}
+
+    }
