@@ -19,8 +19,8 @@ body {
 	} 
 
 a {outline:none !important; font-weight:bold; text-decoration:none;}
-a:link, a:visited {color:rgb(30, 140, 190);}
-/* a:visited {color:#606;} */
+a:link {color:#000; font-weight:bold;}
+a:visited {color:#333;} 
 a:hover {color:#606;}
 a:active {color:#900; outline:none;}
 
